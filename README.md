@@ -36,6 +36,5 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 # Authors
 ## Divyansh shrivastava
 <ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
 <li>LinkedIn:https://www.linkedin.com/in/divyansh724/</li>
 </ul>
